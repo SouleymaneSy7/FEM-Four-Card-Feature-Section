@@ -35,8 +35,8 @@ This is the Screenshot of the projects a made!
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://www.frontendmentor.io/solutions/responsive-four-card-feature-section-made-with-css-grid-kFQ_o0cqun)
-- Live Site URL: [Add live site URL here](https://fem-four-card-feature-section-eight.vercel.app/)
+- Solution URL: [solution URL here](https://www.frontendmentor.io/solutions/responsive-four-card-feature-section-made-with-css-grid-kFQ_o0cqun)
+- Live Site URL: [live site URL here](https://fem-four-card-feature-section-eight.vercel.app/)
 
 ## My process
 
